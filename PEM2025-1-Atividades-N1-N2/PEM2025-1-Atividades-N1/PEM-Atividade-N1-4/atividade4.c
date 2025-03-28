@@ -2,7 +2,7 @@
  * Disciplina: Algoritmos e Estruturas de Dados          *
  *          Prof. Veríssimo                              *
  *--------------------------------------------------------*
- * Objetivo do Programa: Exploração Recursiva            *
+ * Objetivo do Programa: Funções recursivas           *
  * Data: 28/03/2025                                      *
  * Autor: Raphael Masiero                                *
  *--------------------------------------------------------*/
